@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>include/contingut.php</url>
+            <bookmark id="1">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/include/nouProducte.php</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/include/cerrarSesion.php</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/include/registre.php</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/include/finalizarCompra.php</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/css/amarillo.css</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/css/estils.css</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/include/pedidoRealizado.php</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/include/verPedido.php</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/include/cap.php</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/include/peu2.php</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/include/dades.php</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/include/eliminaProducte.php</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/include/procesaFormulari.php</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/include/pedidos.php</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/include/processaNouProducte.php</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/include/subir.php</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/include/editaProducte.php</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/include/procesaCarret.php</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/css/blanco.css</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/include/peu.php</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/include/eliminarFoto.php</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/include/dadesRegistre.php</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/include/dadesCarret.php</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/include/eliminaFotoProducto.php</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/include/datosCambioFoto.php</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/include/contacte.php</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/index.php</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/include/pedidos.txt</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/include/inici.php</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/include/carretCompra.php</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/include/processaLogin.php</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/include/magrada.php</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/include/productos.php</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/include/eliminaUsuari.php</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/include/usuarios.php</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/include/passwd.txt</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/include/productes.php</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/include/navegacioAdmin.php</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/include/navegacio.php</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/include/verCarrito.php</file>
+            <file>file:/opt/lampp/htdocs/entorns/projecteArnauCopovi/include/processaEditaProducte.php</file>
+        </group>
+    </open-files>
+</project-private>

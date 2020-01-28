@@ -1,0 +1,436 @@
+/**ESTILS DEL CAP**/
+
+@font-face {
+    font-family: starwars;
+    src: url(../fonts/Starjedi.ttf)
+}
+.cap{
+   background-image:url(../img/espacio.png); 
+}
+h1 {
+    margin: 0;
+    line-height: 1; font-size: 1em;
+    font-family: starwars;
+    padding: 20px;
+    color: yellow;
+    font-size: 100px;
+    text-align: center;
+}
+.data{
+    display: inline;
+    position: absolute;
+    right: 50px;
+    top: 250px;
+    border: solid 2px red;
+    background-color: yellow;
+    padding: 15px;
+    text-align: center;
+    width: 20%;
+}
+
+#formulariCap {
+    text-align: center;
+    border-top: solid 0.1px white;
+    border-bottom: solid 0.1px white;
+    color:white;
+    background-color: #232323;
+}
+#formulariCap form{
+    display: inline-block;
+}
+#login{
+    width: 45%;
+     padding-bottom: 20px;
+}
+.input{
+    width: 20%;
+}
+#cerrar{
+     padding-bottom: 20px;
+}
+#mensage{
+    margin: 0;
+    color: red;
+}
+#cambiocss{
+    text-align: left;
+    width: 20%;
+}
+#usuario{
+   
+    width: 3%;
+}
+#usuario2{
+    width: 3%;
+    margin-right: 10px;
+}
+/**ESTILS DE NAVEGACIÓ**/
+#registro{
+    margin: 0;
+    margin-top: 5px;
+}
+#registroa {
+    color: yellow;
+}
+#cambioImagen{
+    color: yellow;
+}
+.inici h2 {
+    padding: 10px;
+    color: black;
+}
+#bienvenida{
+    width: 100%;
+    height: 100%;
+}
+.navegacio {
+    padding: 20px;
+    text-align: center;
+    background-color: #232323;
+    position: sticky;
+    top: 0;
+}
+.navegacio a {
+    text-transform: uppercase;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 135px;
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none;
+    outline: none;
+}
+.navegacio a:hover {
+    background-color: yellow;
+    color: black;
+}
+.navegacio a:link {
+    color: darkgrey;
+}
+.navegacio a:visited {
+    color: darkgray;
+}
+/**ESTILS CONTINGIT**/
+#formulari {
+    
+    padding: 20px;
+    background-color: yellow;
+    margin: 0 auto;
+    width: 70%;
+}
+#datos li{
+    list-style: none;
+}
+.personales{
+    display: inline-block;
+    margin: 5px;
+}
+/**ESTILS PROCESAFORMULARI**/
+body{
+    margin:0;
+    background-attachment: fixed;
+    background-image: url(../img/fondo1.png);
+    list-style: none;
+}
+#contenidor {
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px;
+    background-color: yellow;
+    margin: 0 auto;
+    width: 70%;
+}
+.columna{
+    margin:10px;
+    width: 30%;
+    border:solid 5px;
+    border-color: burlywood;
+    background-color: white;
+    border-radius: 10px;
+    display: inline-block;
+}
+.fila{
+    display: block;
+}
+.datos{
+    border-radius: 10px;
+    margin:0 auto;
+    text-align: center;
+    width: 63%;
+    border: solid 5px burlywood;
+    background-color: white;
+}
+.fila1 {
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    display:block;
+    background-color: silver;
+}
+.columna1{
+    text-align: center;
+    float:left;
+    display: inline;
+}
+.columna2{
+    text-align: center;
+     display: inline;
+}
+.color1{
+    margin:10px;
+    width: 15%;
+    padding: 2px;
+    background-color: blueviolet;
+    border: solid 2px black;
+}
+.color2{
+    color: white;
+    margin:10px;
+    width: 15%;
+    padding: 2px;
+    background-color: red;
+    border: solid 2px black;
+}
+.columna3{
+    display: inline;
+}
+/**ESTILS PRODUCTES**/
+.productos{
+    margin: 10px;
+    background-color: white;
+    padding: 10px;
+}
+/**ESTILS REGISTRE**/
+.registro{
+    display: block;
+}
+/**ESTILS ELIMINAUSUARI**/
+#papelera{
+    width: 9%;
+}
+.elimina{
+    margin: 3px;
+    padding: 10px;
+    display: inline-block;
+    background-color: white;
+    width: 15%;
+}
+#eliminaUsuari{
+    background-color: white;
+    text-align: center;
+    display: inline;
+}
+#eliminaUsuari li{
+    display: block;
+}
+/**ESTILS PRODUCTES**/
+.productos img{
+    width: 25%;
+}
+/**CARRET**/
+#carret{
+    position:absolute; top: 5px; right: 10px;
+    width: 25%;
+}
+#fotoCarret{
+    width: 33%;
+}
+#fotoPago{
+    width: 30%;
+}
+#cantidadProductos{
+
+    display: inline-block;
+    color: white;
+    width: 20%;
+}
+/*VER PRODUCTOS*/
+#carritoVer{
+
+}
+#verCarrito{
+    margin: 0 auto;
+    width: 70%;
+    padding: 10px;
+    background-color: silver;
+    margin-bottom: 15px;
+}
+#verCarrito p{
+    background-color: white;
+    margin:5px;
+}
+#verCarrito form {
+    background-color: bisque ;
+    margin:5px;
+}
+#totalPedido{
+    border-radius: 8px;
+    margin: 0 auto;
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 5px;
+    border:solid 5px;
+    border-color: burlywood;
+    background-color: white;
+}
+#registroPedidos{
+    border-radius: 8px;
+    padding: 10px;
+    background-color: yellow;
+}
+#confirmarPedidos{
+    border-radius: 8px;
+    padding: 10px;
+    background-color:bisque;
+}
+#mensajeCorrecto{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: white;
+}
+/**MOSTRAR PEDIDO**/
+#mostrarPedido{
+    padding-top : 10px;
+    margin:0 auto;
+    width: 81%;
+    border-radius:  8px;
+    border: solid 2px white;
+}
+/**CAMBIO FOTO**/
+#fitxer{
+    background-color: white;
+}
+#contenidor h2{
+    color:black;
+}
+#cambioFoto{
+    color:black;
+}
+#cambioDiv{
+    margin: 10px;
+    padding: 10px;
+    border: solid 2px black;
+}
+#mensageOk{
+    color:green;
+}
+/**ADMIN. PRODUCTES**/
+.eliminaProducte{
+    margin: 3px;
+    padding: 10px;
+    display: inline-block;
+    background-color: white;
+    width: 12%;
+}
+#eliminaProducte{
+    background-color: white;
+    text-align: center;
+    display: inline;
+}
+#eliminaProducte li{
+    display: block;
+}
+.imagenProductos{
+    height: 80px;
+    width: 80px;
+}
+#papelera2{
+    width: 100%;
+}
+#anyadir{
+    width: 5%;
+}
+#anyadirProducte{
+    display: inline-block;
+    background-color: white;
+    padding: 5px;
+    border: solid 5px black;
+    border-radius: 15px;
+}
+#enlaceNuevo{
+    display: inline-block;
+}
+/**NUEVO PRODUCTO**/
+.formularioProducto{
+    text-align: center;
+    margin: 10px;
+    background-color: background;
+    padding: 10px;
+    color: black;
+}
+#formularioProducto{
+    text-align: center;
+}
+#volver{
+
+    margin-left: 5px;
+}
+#unidadesInsu{
+    color: red;
+}
+#eliminaFoto{
+    color:red;
+    margin-left: 10px;
+}
+/*PAGINACIO*/
+#paginacio{
+    text-align: center;
+    background-color: #232323;
+    padding: 20px;
+    color: darkgrey;
+    border-top: solid 1px  white;
+    border-bottom: solid 1px  white;
+}
+#paginacio a{
+    color: yellow;
+}
+/*estils de peu*/
+
+#peu {
+    background-image: url(../img/peu1.jpg);
+    background-size: 100%;
+    text-align: center;
+    object-position: left;
+    margin: 0;
+}
+#navega{
+    margin: 0;
+}
+#navega li {
+    padding: 20px;
+    display: inline-block;
+    font-size: 11px;
+    margin-top: 80px;
+}
+
+#navega ul li {
+    padding-left: 0px;
+    margin-top: 80px;
+}
+#externo li{
+    display: inline-block;
+    padding: 5px;
+}
+.facebook{
+    width: 70%;
+}
+#peu p {
+    color: darkgray;
+    margin-top: 30px;
+    padding-bottom: 50px;
+    margin: 0;
+}
+
+#peu a {
+    text-decoration: none;
+    outline: none;
+}
+
+#peu a:link {
+    color: darkgrey;
+}
+
+#peu a:visited {
+    color: darkgray;
+}

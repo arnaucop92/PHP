@@ -1,0 +1,4 @@
+C1:arnau:idproducto2:2:31.99€:
+C2:arnau:idproducto5:2:21.99€:
+C3:arnau:idproducto4:1:39.99:idproducto3:1:18.95:idproducto5:1:21.99:
+C4:arnau:idproducto3:1:18.95:idproducto6:1:15.25:
